@@ -11,8 +11,11 @@ USD, ingen EU- eller Sverigeåterförsäljare, broadforken skickas i två paket 
 inte ens skicka listningen till Storbritannien.
 
 Att sälja dem ett publiceringspaket på "trafik som konverterar" hade varit att sälja en
-konvertering logistiken inte klarar. Därför ETT paket: Content Production 1 200 EUR, ren
-produktion med permanenta rättigheter, inget publiceras hos oss.
+konvertering logistiken inte klarar. Därför är huvudpaketet Content & Carousel, 1 200 EUR: 1 video, 20 bilder (miljöbilder,
+close-ups och produktbilder), permanenta rättigheter. Ett urval av bilderna publiceras som
+karusell på Villa Sjövik, så det finns reklamvärde, resten levereras till dem. Videopaket
+och Kampanjpaket visas nedtonade bredvid: de finns, men de förutsätter en publik som kan
+köpa utan importoffert.
 
 **Loggan** är vektoriserad ur en 332 px JPEG, färgseparerad potrace (grön #50A41B, blå
 #227AC2). Ingen vektor finns publikt. Taglinen "Our Soil, Our Future" är den svagaste
